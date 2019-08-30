@@ -1,0 +1,7 @@
+bin/
+obj/
+nupkg/
+tools/
+*.swp
+.dotnet/
+data.json
